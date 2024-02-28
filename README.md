@@ -15,7 +15,7 @@
 - JavaScript
 
 ## Getting Started
-git clone 
+git clone git@github.com:Madhav-dhakal/Shopping_Cart.git
 ## Usage
 - Click on the "Add to Cart" button to add a product to the cart.
 - Use the quantity input field to adjust the quantity of the product in the cart.
