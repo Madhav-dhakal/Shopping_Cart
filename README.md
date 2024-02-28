@@ -19,7 +19,6 @@
 -  open the index.html file in your web browser 
 ## Usage
 - Click on the "Add to Cart" button to add a product to the cart.
-- Use the quantity input field to adjust the quantity of the product in the cart.
 - Click on the "Remove" button to remove a product from the cart.
 - The total price of the items in the cart will be automatically calculated and displayed.
   
